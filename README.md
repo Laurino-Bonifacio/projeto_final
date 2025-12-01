@@ -27,13 +27,12 @@ Abaixo, detalhamos a evolução do projeto, comparando o planejamento visual com
 ### 1. Página Inicial (Home)
 | Protótipo (Figma) | Site Implementado |
 | :---: |
-| ![Figma Home](img/figma-home.png) | 
-) |
+| ![Figma Home](img/figma-home.png) 
 
 ### 2. Página de Detalhes
 | Protótipo (Figma) | Site Implementado |
 | :---: |
-| ![Figma Detalhes](img/figma-detalhes.png) |
+| ![Figma Detalhes](img/figma-detalhes.png) 
 
 ---
 
@@ -46,6 +45,7 @@ Abaixo, detalhamos a evolução do projeto, comparando o planejamento visual com
     * `/img` (Assets e prints)
 
 ---
+
 
 
 

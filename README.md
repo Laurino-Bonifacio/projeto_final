@@ -25,8 +25,7 @@ Abaixo, detalhamos a evolução do projeto, comparando o planejamento visual com
 ## 🎨 Comparativo: Design vs. Site Real
 
 ### 1. Página Inicial (Home)
-| Protótipo (Figma) | Site Implementado |
-| :---: |
+| Protótipo (Figma) | Site Implementado 
 | ![Figma Home](img/figma-home.png) 
 
 ### 2. Página de Detalhes
@@ -45,6 +44,7 @@ Abaixo, detalhamos a evolução do projeto, comparando o planejamento visual com
     * `/img` (Assets e prints)
 
 ---
+
 
 
 

@@ -48,10 +48,4 @@ Abaixo, detalhamos a evolução do projeto, comparando o planejamento visual com
 
 ---
 
-## 📝 Considerações Finais
-O projeto foi essencial para consolidar o entendimento de **Box Model** e **Caminhos de Arquivo** (linking). A principal dificuldade superada foi ajustar a responsividade dos cards na página inicial e garantir que todas as imagens carregassem corretamente no GitHub Pages.
-
-
-
-
 

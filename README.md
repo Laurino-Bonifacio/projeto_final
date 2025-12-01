@@ -33,8 +33,7 @@ Abaixo, detalhamos a evolução do projeto, comparando o planejamento visual com
 ### 2. Página de Detalhes
 | Protótipo (Figma) | Site Implementado |
 | :---: | :---: |
-| ![Figma Detalhes](img/figma-detalhes.png) | ![Site Detalhes](img/site-detalhes.png) |
-
+| ![Figma Detalhes](img/figma-detalhes.png) |
 
 ---
 
@@ -47,5 +46,6 @@ Abaixo, detalhamos a evolução do projeto, comparando o planejamento visual com
     * `/img` (Assets e prints)
 
 ---
+
 
 

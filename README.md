@@ -22,19 +22,7 @@ Desenvolvimento de um e-commerce de hardware ("NEXTADDE") utilizando **HTML** e 
 
 Abaixo, detalhamos a evolução do projeto, comparando o planejamento visual com o resultado final.
 
-## 🎨 Comparativo: Design vs. Site Real
 
-### 1. Página Inicial (Home)
-| ![Figma Home](img/figma-home.png) 
-
-### 2. Página de Detalhes
-| ![Figma Detalhes](img/figma-detalhes.png) 
-
-### 3. Página Inicial (Home)
-| ![site Home](site-detalhes.png)
-
-### 4. Página Inicial (Home)
-| ![contato](site-contato.png)
 
 ---
 
@@ -47,6 +35,7 @@ Abaixo, detalhamos a evolução do projeto, comparando o planejamento visual com
     * `/img` (Assets e prints)
 
 ---
+
 
 
 
